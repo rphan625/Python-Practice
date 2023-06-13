@@ -1,5 +1,6 @@
 """ Exercise 1 Character Input
- ask a user for name and age, tell them when they will turn 100 years old
+    Character Input
+    Ask a user for name and age, tell them when they will turn 100 years old
 """
 
 from datetime import datetime
